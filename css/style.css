@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #000;
+    overflow-x: hidden;
+}
+.message-coming{
+    font-family: Arial;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1DE9B6;
+    position: relative;
+    top: 50%;
+    font-weight: 300;
+    transform: translateY(-60%);
+}
